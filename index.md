@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## ООО «ЮграПромСервис»
 
-You can use the [editor on GitHub](https://github.com/opsnv/opsnv.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Компания "ЮграПромСервис" является франчайзи компании ОПС и обладает эксклюзивным правом на использование торговой марки "OPS" на территории Нижневартовска и Нижневартовского района, а также исполняет все гарантийные обязательства компании ОПС в регионе. Мы производим совместимые восстановленные картриджи OPS, на собственных производственных мощностях.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Производство совместимых восстановленных картриджей под маркой OPS, а также их заправка и восстановление. Высокая эффективность американской технологии, используемой в нашем производстве, в сочетании с материалами фирмы Static Control Components (США) дают гарантированно хорошее качество печати и ресурс работы.
 
-### Markdown
+Услуги, которые мы предоставляем:
+ - поставка готовой продукции под маркой OPS;
+ - заправка и восстановление картриджей;
+ - поставка оригинальной продукции HP, Samsung, Xerox и т.д.;
+ - ремонт оргтехники;
+ - бесплатная доставка товара;
+ - отсрочка оплаты постоянным клиентам.
+На все услуги предоставляется гарантия качества.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Контакты
 
-```markdown
-Syntax highlighted code block
+628616, РФ, Ханты-Мансийский автономный округ-Югра г. Нижневартовск, ул.Северная, д.4
+Режим работы: 
+ПН.-ПТ. с 9:00 до 18:00 
+СБ., ВС. - выходной.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opsnv/opsnv.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Телефон: +7 (3466) 40-60-44
+E-mail: [opsnv@ya.ru](mailto:opsnv@ya.ru)
+Сайт: [nv.ops.ru](http://nv.ops.ru)
